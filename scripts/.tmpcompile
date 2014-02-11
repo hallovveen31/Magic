@@ -1,0 +1,6 @@
+/* This file is auto generated, version 0 */
+#define UTS_MACHINE ""
+#define UTS_VERSION "#0 Tue Feb 11 14:26:52 PST 2014"
+#define LINUX_COMPILE_BY "MAGIC"
+#define LINUX_COMPILE_HOST "RUSHING"
+#define LINUX_COMPILER "/home/odin/android/STOCK-T989-kernel/kernel/scripts/mkcompile_h: 1: /home/odin/android/STOCK-T989-kernel/kernel/scripts/mkcompile_h: -v: not found"
